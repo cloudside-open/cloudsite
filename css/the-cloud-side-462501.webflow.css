@@ -2269,7 +2269,7 @@ p {
 a {
   -webkit-transition: color 350ms ease;
   transition: color 350ms ease;
-  color: #0073CF;
+  color: #5596e6;
   text-decoration: underline;
 }
 
@@ -2316,11 +2316,11 @@ blockquote {
   padding: 50px 80px;
   border-style: solid;
   border-width: 0.5px 0.5px 0.5px 11px;
-  border-color: #cecddd #cecddd #cecddd #0073CF;
+  border-color: #cecddd #cecddd #cecddd #5596e6;
   border-radius: 8px 12px 12px 8px;
   background-color: #fff;
   box-shadow: 0 3px 12px 0 rgba(48, 44, 255, 0.05);
-  color: #0073CF;
+  color: #5596e6;
   font-size: 22px;
   line-height: 1.636em;
   font-weight: 500;
@@ -2376,7 +2376,7 @@ figcaption {
 }
 
 .bg-primary-1 {
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .bg-neutral-700 {
@@ -2469,7 +2469,7 @@ figcaption {
   padding: 100px 68px;
   border-top-left-radius: 24px;
   border-top-right-radius: 24px;
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .sidebar-navigation {
@@ -2495,7 +2495,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 18px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   -webkit-transition: background-color 250ms ease;
   transition: background-color 250ms ease;
 }
@@ -2521,14 +2521,14 @@ figcaption {
 
 .styleguide-link:hover {
   background-color: #f2f1ff;
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .styleguide-link.w--current {
   background-color: #f2f1ff;
   -webkit-transition: color 300ms ease, background-color 300ms ease;
   transition: color 300ms ease, background-color 300ms ease;
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 700;
 }
 
@@ -2575,7 +2575,7 @@ figcaption {
 }
 
 .color-block.bg-primary-1 {
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .color-block.bg-white.white {
@@ -2639,7 +2639,7 @@ figcaption {
 
 .typography-details {
   margin-top: 20px;
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 500;
 }
 
@@ -2694,7 +2694,7 @@ figcaption {
 .button-primary {
   padding: 15px 32px;
   border-radius: 4px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   box-shadow: 0 2px 8px 0 rgba(48, 44, 255, 0.1);
   -webkit-transition: box-shadow 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
   transition: box-shadow 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
@@ -2710,13 +2710,13 @@ figcaption {
 .button-primary:hover {
   border-style: solid;
   border-width: 1px;
-  border-color: #0073CF;
+  border-color: #5596e6;
   background-color: #fff;
   box-shadow: 0 0 0 0 rgba(48, 44, 255, 0.1);
   -webkit-transform: scale(0.95);
   -ms-transform: scale(0.95);
   transform: scale(0.95);
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .button-primary.small {
@@ -2745,7 +2745,7 @@ figcaption {
 
 .button-primary.button-white {
   background-color: #fff;
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .button-primary.header-button {
@@ -2755,7 +2755,7 @@ figcaption {
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
   border-radius: 4px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   font-family: Lexend, sans-serif;
   font-weight: 500;
   text-align: center;
@@ -2789,14 +2789,14 @@ figcaption {
   padding: 15px 32px;
   border-style: solid;
   border-width: 0.5px;
-  border-color: #0073CF;
+  border-color: #5596e6;
   border-radius: 4px;
   background-color: transparent;
   -webkit-transition: color 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
   transition: color 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
   transition: transform 350ms ease, color 350ms ease, background-color 350ms ease;
   transition: transform 350ms ease, color 350ms ease, background-color 350ms ease, -webkit-transform 350ms ease;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 16px;
   line-height: 1em;
   font-weight: 500;
@@ -2805,7 +2805,7 @@ figcaption {
 }
 
 .button-secondary:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   -webkit-transform: scale(0.95);
   -ms-transform: scale(0.95);
   transform: scale(0.95);
@@ -2844,7 +2844,7 @@ figcaption {
 }
 
 .button-secondary.white:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .button-secondary.pagination {
@@ -2949,10 +2949,10 @@ figcaption {
   padding-bottom: 15px;
   border-style: none;
   border-width: 1px 1px 0.5px;
-  border-color: #000 #000 #0073CF;
-  background-color: #CCE3F5;
+  border-color: #000 #000 #5596e6;
+  background-color: #bbd5f5;
   font-family: Lexend, sans-serif;
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 400;
   letter-spacing: 0em;
   text-transform: capitalize;
@@ -2993,7 +2993,7 @@ figcaption {
 }
 
 .nav-link:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .nav-link.w--current {
@@ -3057,7 +3057,7 @@ figcaption {
   padding-bottom: 0px;
   border-style: none;
   background-color: transparent;
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .section.section-about {
@@ -3084,8 +3084,8 @@ figcaption {
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: #fcf9f7;
-  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(50%, #fff), color-stop(0, #0073CF), color-stop(100%, #0073CF), to(#0073CF));
-  background-image: linear-gradient(0deg, #fff 50%, #0073CF 0, #0073CF 100%, #0073CF);
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(50%, #fff), color-stop(0, #5596e6), color-stop(100%, #5596e6), to(#5596e6));
+  background-image: linear-gradient(0deg, #fff 50%, #5596e6 0, #5596e6 100%, #5596e6);
 }
 
 .section.about-hero {
@@ -3195,7 +3195,7 @@ figcaption {
 .section.careers-hero {
   padding-top: 137px;
   padding-bottom: 128px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
   letter-spacing: 0em;
 }
@@ -3254,7 +3254,7 @@ figcaption {
 }
 
 .section.core-team {
-  background-color: #CCE3F5;
+  background-color: #bbd5f5;
 }
 
 .utility-page-wrap {
@@ -3336,12 +3336,12 @@ figcaption {
 }
 
 .input:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .input:focus,
 .input.-wfp-focus {
-  border-color: #0073CF;
+  border-color: #5596e6;
   color: #383e56;
   font-size: 16px;
 }
@@ -3642,7 +3642,7 @@ figcaption {
 .subtitle.general {
   margin-bottom: 20px;
   font-family: Lexend, sans-serif;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 24px;
   font-weight: 500;
   text-align: center;
@@ -4197,7 +4197,7 @@ figcaption {
 
 .image-wrapper.card-case-study {
   max-width: 50%;
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .image-wrapper.blog-post-author {
@@ -4288,7 +4288,7 @@ figcaption {
 
 .title.testimonial {
   margin-bottom: 16px;
-  color: #0073CF;
+  color: #5596e6;
   line-height: 1.333em;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -4376,7 +4376,7 @@ figcaption {
   -ms-flex: 0 auto;
   flex: 0 auto;
   direction: ltr;
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 500;
   text-align: center;
   letter-spacing: 0em;
@@ -4478,7 +4478,7 @@ figcaption {
   font-size: 20px;
   font-family: Lexend, sans-serif;
   font-weight:600;
-  color: #0073CF;
+  color: #5596e6;
   text-transform: none;
   font-style: normal;
 
@@ -4540,7 +4540,7 @@ figcaption {
 }
 
 .title.order-item:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .title._404 {
@@ -4564,7 +4564,7 @@ figcaption {
 }
 
 .title.cart-item-title:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .title.card-service {
@@ -4730,7 +4730,7 @@ figcaption {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  border-color: #CCE3F5;
+  border-color: #bbd5f5;
   border-radius: 0px;
 }
 
@@ -4776,7 +4776,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-color: #CCE3F5;
+  border-color: #bbd5f5;
   border-radius: 5px;
   color: #50507e;
   text-align: center;
@@ -4784,7 +4784,7 @@ figcaption {
 }
 
 .card.services:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
   background-color: #fcf9f7;
 }
 
@@ -4913,7 +4913,7 @@ figcaption {
   top: 20px;
   padding: 67px 40px;
   border-width: 2px;
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .card.package-order-mobile {
@@ -4923,7 +4923,7 @@ figcaption {
   display: none;
   padding: 67px 40px;
   border-width: 2px;
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .card.openings-contact {
@@ -5042,17 +5042,17 @@ figcaption {
   padding: 22px 32px;
   border-style: solid;
   border-width: 0.5px;
-  border-color: #0073CF;
+  border-color: #5596e6;
   border-radius: 10px;
   -webkit-transition: color 350ms ease, background-color 350ms ease;
   transition: color 350ms ease, background-color 350ms ease;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 16px;
   line-height: 1em;
 }
 
 .slide-right-arrow:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
@@ -5064,7 +5064,7 @@ figcaption {
 }
 
 .slide-right-arrow.white:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .slide-left-arrow {
@@ -5076,17 +5076,17 @@ figcaption {
   padding: 22px 32px;
   border-style: solid;
   border-width: 0.5px;
-  border-color: #0073CF;
+  border-color: #5596e6;
   border-radius: 10px;
   -webkit-transition: color 350ms ease, background-color 350ms ease;
   transition: color 350ms ease, background-color 350ms ease;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 16px;
   line-height: 1em;
 }
 
 .slide-left-arrow:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
@@ -5098,7 +5098,7 @@ figcaption {
 }
 
 .slide-left-arrow.white:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .testimonials-slider {
@@ -5140,7 +5140,7 @@ figcaption {
 }
 
 .testimonial-about-rol {
-  color: #0073CF;
+  color: #5596e6;
   font-size: 18px;
   line-height: 1em;
 }
@@ -5226,7 +5226,7 @@ figcaption {
   margin-left: 10px;
   padding: 6px 8px;
   border-radius: 4px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
   font-size: 12px;
 }
@@ -5240,7 +5240,7 @@ figcaption {
   margin-left: 10px;
   padding: 6px 8px;
   border-radius: 4px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
   font-size: 12px;
 }
@@ -5251,7 +5251,7 @@ figcaption {
 
 .badge.blog-post-category {
   margin-bottom: 21px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   -webkit-transition: background-color 350ms ease, -webkit-transform 350ms ease;
   transition: background-color 350ms ease, -webkit-transform 350ms ease;
   transition: background-color 350ms ease, transform 350ms ease;
@@ -5271,7 +5271,7 @@ figcaption {
   position: absolute;
   top: 30px;
   right: 30px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
@@ -5293,7 +5293,7 @@ figcaption {
 }
 
 .badge.career-category-page:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   -webkit-transform: scale(0.95);
   -ms-transform: scale(0.95);
   transform: scale(0.95);
@@ -5439,11 +5439,11 @@ figcaption {
 }
 
 .footer-link:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .footer-link.w--current {
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 400;
 }
 
@@ -5503,7 +5503,7 @@ figcaption {
 }
 
 .social-media-wrapper:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   -webkit-transform: scale(0.9);
   -ms-transform: scale(0.9);
   transform: scale(0.9);
@@ -5593,7 +5593,7 @@ figcaption {
   padding: 40px 40px 53px;
   border-style: none;
   border-radius: 0px;
-  background-color: #CCE3F5;
+  background-color: #bbd5f5;
   opacity: 1;
   font-family: Lexend, sans-serif;
   font-weight: 400;
@@ -5634,7 +5634,7 @@ figcaption {
   flex: 0 auto;
   border-style: none;
   border-radius: 0px;
-  background-color: #CCE3F5;
+  background-color: #bbd5f5;
   opacity: 1;
   font-family: Lexend, sans-serif;
   font-weight: 400;
@@ -5698,7 +5698,7 @@ figcaption {
 }
 
 .dropdown-link:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .dropdown-link.w--current {
@@ -5795,7 +5795,7 @@ figcaption {
 
 .card-team-rol {
   margin-bottom: 10px;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 18px;
   line-height: 1.111em;
   text-transform: capitalize;
@@ -5864,7 +5864,7 @@ figcaption {
 
 .results-featured-number {
   margin-bottom: 14px;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 45px;
   line-height: 1.044em;
   font-weight: 700;
@@ -5909,7 +5909,7 @@ figcaption {
   height: 6px;
   min-width: 100px;
   margin-bottom: 10px;
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .blog-hero-wrapper {
@@ -5976,7 +5976,7 @@ figcaption {
 }
 
 .button-category:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   -webkit-transform: scale(0.95);
   -ms-transform: scale(0.95);
   transform: scale(0.95);
@@ -5988,7 +5988,7 @@ figcaption {
 }
 
 .button-category.all.w--current {
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .button-category.careers {
@@ -6001,12 +6001,12 @@ figcaption {
 }
 
 .button-category.careers:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
 .button-category.careers.w--current {
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
@@ -6028,12 +6028,12 @@ figcaption {
 }
 
 .button-category.category-page:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
 .button-category.category-page.w--current {
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
 }
 
@@ -6243,7 +6243,7 @@ figcaption {
 }
 
 .about-author-rol {
-  color: #0073CF;
+  color: #5596e6;
   font-size: 18px;
   line-height: 1em;
 }
@@ -6284,7 +6284,7 @@ figcaption {
   bottom: 0px;
   z-index: -1;
   height: 988px;
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .pricing-grid {
@@ -6308,7 +6308,7 @@ figcaption {
 }
 
 .card-package-price {
-  color: #0073CF;
+  color: #5596e6;
   font-size: 29px;
   line-height: 1.063em;
   font-weight: 700;
@@ -6356,11 +6356,11 @@ figcaption {
 }
 
 .select-wrapper:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .select-wrapper:focus {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .select-wrapper::-webkit-input-placeholder {
@@ -6562,11 +6562,11 @@ figcaption {
 }
 
 .text-area:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .text-area:focus {
-  border-color: #0073CF;
+  border-color: #5596e6;
   color: #383e56;
   font-size: 16px;
 }
@@ -6622,15 +6622,15 @@ figcaption {
 }
 
 .checkbox:hover {
-  border-color: #0073CF;
+  border-color: #5596e6;
 }
 
 .checkbox.w--redirected-checked {
   width: 22px;
   height: 22px;
-  border-color: #0073CF;
+  border-color: #5596e6;
   border-radius: 5px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   background-image: url('../images/icon-check-form-code-template.svg');
 }
 
@@ -6669,7 +6669,7 @@ figcaption {
 }
 
 .link-back-to.white:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .package-sidebar {
@@ -6749,7 +6749,7 @@ figcaption {
 
 .package-order-price {
   margin-bottom: 29px;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 28px;
   line-height: 1.143em;
   font-weight: 700;
@@ -6815,7 +6815,7 @@ figcaption {
 }
 
 .card-career-date {
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 500;
 }
 
@@ -6857,7 +6857,7 @@ figcaption {
 
 .card-career-page-date {
   margin-bottom: 10px;
-  color: #0073CF;
+  color: #5596e6;
   font-weight: 500;
 }
 
@@ -7110,7 +7110,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 1000px;
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .password-icon {
@@ -7143,7 +7143,7 @@ figcaption {
 }
 
 .card-team-rol-page {
-  color: #0073CF;
+  color: #5596e6;
   font-size: 18px;
   line-height: 1.111em;
 }
@@ -7352,7 +7352,7 @@ figcaption {
 }
 
 .case-study-rich-text-white a:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .card-team-bio-summary-link {
@@ -7394,7 +7394,7 @@ figcaption {
 
 .success-message {
   border-radius: 8px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   color: #fff;
   text-align: center;
 }
@@ -7568,7 +7568,7 @@ figcaption {
 }
 
 .client-name-link:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .card-service-content {
@@ -7655,7 +7655,7 @@ figcaption {
   align-items: stretch;
   border-style: none none solid;
   border-width: 1px;
-  border-color: #CCE3F5;
+  border-color: #bbd5f5;
   font-family: Lexend, sans-serif;
   color: #564438;
   font-weight: 500;
@@ -7663,7 +7663,7 @@ figcaption {
 
 .service-tab {
   background-color: transparent;
-  color: #0073CF;
+  color: #5596e6;
   font-size: 24px;
   font-weight: 500;
 }
@@ -7675,7 +7675,7 @@ figcaption {
 }
 
 .service-tab:active {
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .service-tab.w--current {
@@ -7698,21 +7698,21 @@ figcaption {
 
 .service-tab.data:hover {
   background-color: #fff;
-  color: #0073CF;
+  color: #5596e6;
   text-decoration: none;
 }
 
 .service-tab.data:active {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .service-tab.data:focus {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .service-tab.data.w--current {
   border-radius: 0px;
-  background-color: #CCE3F5;
+  background-color: #bbd5f5;
 }
 
 .tabs-content {
@@ -7740,14 +7740,14 @@ figcaption {
   margin-bottom: 10px;
   border-style: none;
   border-width: 1px;
-  border-color: #0073CF;
+  border-color: #5596e6;
   border-radius: 5px;
-  background-color: #0073CF;
+  background-color: #5596e6;
   font-size: 2px;
 }
 
 .service-section-divider:hover {
-  background-color: #0073CF;
+  background-color: #5596e6;
 }
 
 .body {
@@ -7792,7 +7792,7 @@ figcaption {
 
 .heading-4.whyus {
   margin-bottom: 10px;
-  color: #0073CF;
+  color: #5596e6;
   text-transform: capitalize;
 }
 
@@ -7840,7 +7840,7 @@ figcaption {
 }
 
 .link:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .link.nav {
@@ -7854,16 +7854,16 @@ figcaption {
 }
 
 .tab-text:hover {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .tab-text:active {
-  color: #0073CF;
+  color: #5596e6;
   text-decoration: none;
 }
 
 .tab-text:focus {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .text-block-12 {
@@ -7900,7 +7900,7 @@ figcaption {
 
 .tab-item-left.w--current {
   width: 100%;
-  background-color: #CCE3F5;
+  background-color: #bbd5f5;
 }
 
 .tab-description {
@@ -8725,19 +8725,19 @@ figcaption {
 }
 
 .orange-text-span-heading {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .text-span-2 {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .text-span-3 {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .text-span-4 {
-  color: #0073CF;
+  color: #5596e6;
 }
 
 .image-2 {
@@ -8759,16 +8759,16 @@ figcaption {
 
 @media screen and (min-width: 1440px) {
   .button-primary {
-    background-color: #0073CF;
+    background-color: #5596e6;
   }
 
   .button-primary:hover {
     background-color: #fff;
-    color: #0073CF;
+    color: #5596e6;
   }
 
   .button-primary.header-button {
-    background-color: #0073CF;
+    background-color: #5596e6;
   }
 
   .button-secondary {
@@ -8777,8 +8777,8 @@ figcaption {
 
   .section.cta {
     background-color: transparent;
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(49%, #fff), color-stop(50%, #fff), color-stop(0, #0073CF));
-    background-image: linear-gradient(0deg, #fff 49%, #fff 50%, #0073CF 0);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(49%, #fff), color-stop(50%, #fff), color-stop(0, #5596e6));
+    background-image: linear-gradient(0deg, #fff 49%, #fff 50%, #5596e6 0);
   }
 
   .section.offices {
@@ -9074,13 +9074,13 @@ figcaption {
     -ms-flex-align: center;
     align-items: center;
     border-radius: 1000px;
-    background-color: #0073CF;
+    background-color: #5596e6;
     color: #fff;
     font-size: 30px;
   }
 
   .menu-button.w--open {
-    background-color: #0073CF;
+    background-color: #5596e6;
   }
 
   .nav-menu {
